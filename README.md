@@ -4,22 +4,22 @@ This project provides a clean HTML boilerplate along with an organized folder st
 
 ## Folder Structure
 
-html-boilerplate/
-│
-├── index.html
-│
-└── assets/
-│ └── css/
-│ │ ├── reset.css
-│ │ ├── mobile_layout.css
-│ │ └── main.css
-│ │
-│ └── images/
-│ │ ├── banner/
-│ │ └── icons/
-│ │
-│ └── js/
-│ └── main.js
+##html-boilerplate/
+##│
+##├── index.html
+##│
+##└── assets/
+##│ └── css/
+##│ │ ├── reset.css
+##│ │ ├── mobile_layout.css
+##│ │ └── main.css
+##│ │
+##│ └── images/
+##│ │ ├── banner/
+##│ │ └── icons/
+##│ │
+##│ └── js/
+##│ └── main.js
 
 
 ## File Descriptions
