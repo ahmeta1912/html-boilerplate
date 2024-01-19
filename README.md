@@ -2,26 +2,6 @@
 
 This project provides a clean HTML boilerplate along with an organized folder structure for CSS, images, and JavaScript files.
 
-## Folder Structure
-
-##html-boilerplate/
-##│
-##├── index.html
-##│
-##└── assets/
-##│ └── css/
-##│ │ ├── reset.css
-##│ │ ├── mobile_layout.css
-##│ │ └── main.css
-##│ │
-##│ └── images/
-##│ │ ├── banner/
-##│ │ └── icons/
-##│ │
-##│ └── js/
-##│ └── main.js
-
-
 ## File Descriptions
 
 - `index.html`: Basic HTML document.
